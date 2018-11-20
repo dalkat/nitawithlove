@@ -1,10 +1,10 @@
 intro:
-  lead-in: 
+  lead-in: Welcome to my studio
   heading: 
   btn: 
 
 services:
-  heading: Services
+  heading: Nita, with Love - Services
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
