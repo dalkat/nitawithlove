@@ -1,5 +1,5 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
+  lead-in: "Welcome To My Studio!"
   heading: It's Nice To Meet You
   btn: Tell Me More
 
@@ -8,82 +8,22 @@ services:
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Repurposed wallet
+      text: Repurpose a retired fabric into a wristlet or coin purse. You send the fabric and choose the size, and I will make the wallet for you! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
     - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Repurposed laptop / iPad case
+      text: Repurpose a retired fabric into a laptop or tablet case! You send the fabric and choose the size, and I will make the case for you! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
     - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Other repurposing
+      text: Repurpose a retired fabric into any other handmade good - let me know what you have in mind and I'll let you know if it's possible! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Under construction.
 
 about:
   heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
-
-team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/team/1.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-        
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  subheading: I started Nita, With Love in 2017 after realizing how many retired fabrics go to waste each year (26 billion pounds of textiles and clothes, to be exact). Whether your favorite T-shirt from childhood that you simply can’t let go of, or old curtain samples from your last home renovation, my hope is to contribute to a more sustainable design future by repurposing retired fabrics into well-designed accessories. Made, always, with love. 
 
 clients:
   - img: img/logos/envato.jpg
@@ -97,18 +37,5 @@ clients:
 
 contact:
   heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  name: Your Name *
-  name-required: Please enter your name.
-  email: Your Email *
-  email-required: Please enter your email address.
-  phone: Your Phone *
-  phone-required: Please enter your phone number.
-  message: Your Message *
-  message-required: Please enter a message.
-  btn: Send Message
-
-  js-url: '././mail/contact_me.php'
-  js-success: 'Your message has been sent. '
-  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
-  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
+  subheading: Get in touch via instagram or Facebook. Buttons below!
+ 
