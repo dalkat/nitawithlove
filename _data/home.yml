@@ -38,13 +38,13 @@ team:
 
 
 clients:
-  - img: img/logos/envato.jpg
+  - img: 
     url: "#"
-  - img: img/logos/designmodo.jpg
+  - img: 
     url: "#"
-  - img: img/logos/themeforest.jpg
+  - img: 
     url: "#"
-  - img: img/logos/creative-market.jpg   
+  - img:   
     url: "#"
 
 contact:
