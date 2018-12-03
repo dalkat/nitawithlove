@@ -6,13 +6,13 @@ services:
   heading: Handmade for you, with love
   subheading: Buy a repurposed item, or have one custom made from fabrics you own, such as... your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, or curtain samples from your last remodeling.
   service:
-    - icon: fa fa-shopping-cart
+    - icon: fa fa-drivers-license
       heading: Repurposed wallet
       text: Repurpose a retired fabric into a wristlet or coin purse. You send the fabric and choose the size, and I will make the wallet for you! 
     - icon: fa fa-laptop
       heading: Repurposed laptop / iPad case
       text: Repurpose a retired fabric into a laptop or tablet case! You send the fabric and choose the size, and I will make the case for you. 
-    - icon: fa fa-lock
+    - icon: fa fa-ravelry
       heading: Other repurposing
       text: Repurpose a retired fabric into any other handmade good - let me know what you have in mind and I'll let you know if it's possible.
 
