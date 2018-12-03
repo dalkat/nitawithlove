@@ -3,12 +3,12 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
+  - title: Order
     url: '#portfolio'
   - title: About
     url: '#about'
+  - title: Instagram
+    url: 'http://instagram.com/nita_madewithlove'
 
 
 copyright: Copyright &copy; Nita With Love 2018
