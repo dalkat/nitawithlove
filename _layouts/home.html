@@ -140,8 +140,8 @@ layout: default
               {%- for sm in site.data.default.social-buttons -%}
               {% assign ws = '' %}
               <li class="list-inline-item">
-                <a href="{{ sm.url }}">
-                  <i class="{{ sm.icon }}" style="background-color: #ffffff!important; width:70px!important; height:auto!important;"></i>
+                <a href="{{ sm.url }}" style="background-color: #ffffff!important; width:70px!important; height:auto!important;">
+                  <i class="{{ sm.icon }}"></i>
                 </a>
               </li>
               {%- endfor -%}
