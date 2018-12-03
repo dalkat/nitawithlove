@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.45;
 }
 
 a {
@@ -39,8 +39,9 @@ section {
   h3.section-subheading {
     font-size: 16px;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     margin-bottom: 75px;
+    line-height:1.45
     text-transform: none;
     @include serif-font;
   }
