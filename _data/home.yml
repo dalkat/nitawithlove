@@ -4,7 +4,7 @@ intro:
 
 services:
   heading: Handmade for you, with love
-  subheading: Buy a repurposed item, or have one custom made from fabrics you own, such as... your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, or curtain samples from your last remodeling.
+  subheading: Buy a repurposed item, or have one custom made from fabrics you own, such as... your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, or curtain samples from your last remodeling.<br><Br>To purchase or request a custom item, please contact us on <a href="http://facebook.com/nitamadewithlove">Facebook</a>  or <a href="http://instagram.com/nita_madewithlove">Instagram</a>. 
   service:
     - icon: fa fa-drivers-license
       heading: Repurposed wallet
@@ -18,7 +18,7 @@ services:
 
 portfolio:
   heading: Portfolio
-  subheading: To see my latest repurposes designs, see my Instagram <a href="http://instagram.com/nita_madewithlove">here</a>. 
+  subheading: To see my latest repurposed designs or to make a purchase, see my Instagram <a href="http://instagram.com/nita_madewithlove">here</a>. 
 
 about:
   heading: About
