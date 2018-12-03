@@ -3,18 +3,18 @@ intro:
   heading: 
 
 services:
-  heading: Nita, with Love - Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Handmade for you, with love
+  subheading: Buy a repurposed item, or have one custom made from fabrics you own, such as... your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, or curtain samples from your last remodeling.
   service:
     - icon: fa fa-shopping-cart
       heading: Repurposed wallet
-      text: Repurpose a retired fabric into a wristlet or coin purse. You send the fabric and choose the size, and I will make the wallet for you! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
+      text: Repurpose a retired fabric into a wristlet or coin purse. You send the fabric and choose the size, and I will make the wallet for you! 
     - icon: fa fa-laptop
       heading: Repurposed laptop / iPad case
-      text: Repurpose a retired fabric into a laptop or tablet case! You send the fabric and choose the size, and I will make the case for you! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
+      text: Repurpose a retired fabric into a laptop or tablet case! You send the fabric and choose the size, and I will make the case for you. 
     - icon: fa fa-lock
       heading: Other repurposing
-      text: Repurpose a retired fabric into any other handmade good - let me know what you have in mind and I'll let you know if it's possible! Ideas include your favorite jeans that are ready to be retired, a jacket you love that got damaged, an old blanket from childhood, curtain samples from your last remodeling, etc.!
+      text: Repurpose a retired fabric into any other handmade good - let me know what you have in mind and I'll let you know if it's possible.
 
 portfolio:
   heading: Portfolio
@@ -23,6 +23,19 @@ portfolio:
 about:
   heading: About
   subheading: I started Nita, With Love in 2017 after realizing how many retired fabrics go to waste each year (26 billion pounds of textiles and clothes, to be exact). Whether your favorite T-shirt from childhood that you simply can’t let go of, or old curtain samples from your last home renovation, my hope is to contribute to a more sustainable design future by repurposing retired fabrics into well-designed accessories. Made, always, with love. 
+
+team:
+  members:
+    - name: Elena
+      role: Founder
+      img: img/team/1.jpg 
+      social-buttons:
+        - icon: fa fa-instagram
+          url: 'http://instagram.com/nita_madewithlove'
+        - icon: fa fa-facebook
+          url: 'http://facebook.com/nitamadewithlove'
+  btn: Let's collaborate
+
 
 clients:
   - img: img/logos/envato.jpg
